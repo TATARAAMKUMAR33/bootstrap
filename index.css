@@ -1,0 +1,25 @@
+body{
+    background-color: whitesmoke;
+}
+.box{
+    padding: 40px;
+}
+.text{
+    margin-top:20px;
+    font-size: 12px;
+    padding: 10px;
+}
+.box-part{
+    background-color: white;
+    padding: 30px 0px;
+    margin: 30px 0px 0px 0;
+    border-radius: 5px;
+}
+
+a{
+    text-decoration: underline;
+    margin-top: 5px;
+}
+.fa{
+    color: dodgerblue;
+}
